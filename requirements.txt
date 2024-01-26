@@ -1,0 +1,5 @@
+birdnetlib==0.14.0
+librosa==0.10.1
+tensorflow==2.15.0
+SoundCard==0.4.2
+wandb==0.16.2
