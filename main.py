@@ -15,6 +15,9 @@ class Args:
     file: Path | None
 
 
+# some ideas... we *could* just treat this like dropbox and allow users to upload any artifacts they want...
+
+
 def analyze_and_publish_detections(analyzer, data, samplerate):
     print("analyzing audio")
     recording = RecordingBuffer(
